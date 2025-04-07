@@ -5,4 +5,6 @@
 
 <iframe src="https://3d-rose-ashan.netlify.app" width="800" height="600" frameborder="0"></iframe>
 
-<iframe src="[https://ashanjayamal.github.io/3D_ROSE/](https://github.com/ashanjayamal/3D_ROSE/blob/4846e4acf73667d26758367c587014bdf855c421/docs/index.html)" width="800" height="600" frameborder="0"></iframe>
+<iframe src="https://ashanjayamal.github.io/3D_ROSE" width="800" height="600" frameborder="0"></iframe>
+
+![View the Interactive Visualization](https://3d-rose-ashan.netlify.app)
