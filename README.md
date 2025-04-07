@@ -20,4 +20,4 @@ The equation parameters allow for easy customization and exploration of unique s
 
 
 
-[View the Interactive Visualization](https://3d-rose-ashan.netlify.app)
+[View the Interactive Visualization](https://ashanjayamal.github.io/3D_ROSE/)
