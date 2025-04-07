@@ -17,7 +17,6 @@ The equation parameters allow for easy customization and exploration of unique s
 
 ---
 
-## Code Implementation
 
 
 
